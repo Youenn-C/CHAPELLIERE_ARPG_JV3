@@ -30,7 +30,7 @@ L'expérience attendu est que le joueur se sentent submergé au début puis réu
 
 
 Je n'est pas réussi a avoir un projectile fonctionnel, je ne sais pas vraiment pourquoi vu que j'ai refait le système vu en cours.
-J'ai encore des problèmes avec mes animations.
+J'ai encore des problèmes avec la gestion de mes animations (j'utilise des Animation Montage) mais j'entrevois une potentielle solution.
 J'ai encore un peux de mal a utilisé les Scriptables objects créer en C++.
 
 
