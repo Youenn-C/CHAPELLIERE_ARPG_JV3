@@ -28,15 +28,14 @@
 
 #### Retour Réflectif
 
+    Ce que je n'ai pas réussi :
 
+        Je n'est pas réussi a avoir un projectile fonctionnel, je ne sais pas vraiment pourquoi vu que j'ai refait le système vu en cours.
+        J'ai encore des problèmes avec la gestion de mes animations (j'utilise des Animation Montage) mais j'entrevois une potentielle solution.
+        J'ai encore un peux de mal a utilisé les Scriptables objects créer en C++.
 
-    Je n'est pas réussi a avoir un projectile fonctionnel, je ne sais pas vraiment pourquoi vu que j'ai refait le système vu en cours.
+    Ce que j'ai réussi :
 
-    J'ai encore des problèmes avec la gestion de mes animations (j'utilise des Animation Montage) mais j'entrevois une potentielle solution.
-
-    J'ai encore un peux de mal a utilisé les Scriptables objects créer en C++.
-
-    J'ai malgré tout réussi a remplir les critères du cahier des charges.
-
-    Je compte me baser sur le proto pour faire de monter un début de RPG comme Wakfu ou dofus. Ce qui me permettra de retourner sur les Scriptables objects créer en C++.
+        J'ai malgré tout réussi a remplir les critères du cahier des charges.
+        Je compte me baser sur le proto pour faire de monter un début de RPG comme Wakfu ou dofus. Ce qui me permettra de retourner sur les Scriptables objects créer en C++.
 
